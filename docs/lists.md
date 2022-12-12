@@ -61,3 +61,13 @@ Turtle. Maak onderstaande tekening na. Maak gebruik van een **for loop**!
 Turtle. Maak onderstaande tekening na. Maak gebruik van een **for loop in een for loop**!
 
 ![Strepen](./static/vierkanten.png)
+
+## Oefening 8
+
+Schrijf een programma dat de gegeven lijst sorteert. Maak gebuik van een while loop in een while loop.
+
+```python
+lijst = [2, 16, -26, -68, -88, -37, -5, -63, -67, -62, 48, 70, 21, 99, -58, -65, 89, -13, 73, -25, 72, -60, -92, -85, -53, 52, 34, 15, 23, 56, -33, -28, -70, 56, -18, 84, 28, -41, 24, -65, 25, -17, 41, -71, 87, 62, -7, 30, 3, 21, -27, -51, -21, -88, -4, -8, -97, -34, 39, 64, -64, -90, 65, -44, -16, 28, -61, -15, 43, -99, -83, 83, 25, -29, -80, -91, 91, -47, -24, 64, 76, 39, 9, -5, 91, 23, -33, 89, 98, -73, -40, 70, 56, -1, -41, 91, 56, -71, -65, -80]
+
+# Code...
+```
