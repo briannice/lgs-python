@@ -49,3 +49,15 @@ lijst = [2, 16, -26, -68, -88, -37, -5, -63, -67, -62, 48, 70, 21, 99, -58, -65,
 
 # Code...
 ```
+
+## Oefening 6
+
+Turtle. Maak onderstaande tekening na. Maak gebruik van een **for loop**!
+
+![Strepen](./static/strepen.png)
+
+## Oefening 7
+
+Turtle. Maak onderstaande tekening na. Maak gebruik van een **for loop in een for loop**!
+
+![Strepen](./static/vierkanten.png)
